@@ -272,7 +272,7 @@ Ejemplo de XML:
 </telefono>
 ```
 
-> Si quieres saber más puedes ir al artículo [XML](/posts/xml/).
+> Si quieres saber más puedes ir al artículo sobre XML
 {:.prompt-info}
 
 {:.subsection}
@@ -310,7 +310,7 @@ _Resultado HTML_
 {:.question}
 ¿Qué significa hipertexto?
 
-> Si quieres saber más puedes ir al artículo [HTML](/posts/html/).
+> Si quieres saber más puedes ir al artículo sobre HTML.
 {:.prompt-info}
 
 {:.subsection}

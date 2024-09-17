@@ -19,8 +19,6 @@ tags: [desarrollo de aplicaciones multiplataforma, lenguajes de marcas y sistema
   - CSS
 
 
-
-
 ## Evaluación 2
 
 - UD04 - Uso de frameworks en entornos web: Bootstrap / Tailwind
