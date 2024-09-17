@@ -10,16 +10,15 @@ tags: [desarrollo de aplicaciones multiplataforma, lenguajes de marcas y sistema
 - UD01 - Introducción a los lenguajes de marcas
   - [Representación de la información](/posts/representacion-de-la-informacion/)
   - [Introducción a los lenguajes de marcas](/posts/introducción-a-los-lenguajes-de-marcas)
-  - [XML](/posts/xml/)
+  - XML
 - UD02 - El lenguaje de marcado Markdown
   - [Tutorial de Markdown](https://tutorialmarkdown.com/)
 - UD03 - Utilización de lenguajes de marcas en entornos web
-  - [HTML](/posts/html/)  
+  - HTML
 - UD04 - Utilización de lenguajes de marcas en entornos web
-  - [CSS](/posts/css/)
+  - CSS
 
-- T00 - Voluntaria recomendada - Apto/No apto - [El formato SVG](/posts/tarea-formato-svg/)
-- T01 - Obligatoria - Apto/No apto - [Tarea: Introducción a XML](/posts/tarea-introduccion-xml/)
+
 
 
 ## Evaluación 2

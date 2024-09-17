@@ -46,7 +46,7 @@ El problema surgió por la falta de estandarización: la letra A se codificaba d
 
 Por ello, poco a poco aparecieron estándares que pretendían conseguir que todo el hardware y el software codificaran los caracteres de la misma forma, independientemente del sistema que utilizáramos.
 
-![¿Por qué hay tantos estándares?](standards.png)
+![¿Por qué hay tantos estándares?](/assets/img/representacion-informacion/standards.png)
 _¿Por qué hay tantos estándares?_
 
 Este problema sigue ocurriendo actualmente. Así, si escribimos en el Bloc de Notas de Windows un texto que contenga la letra eñe (como España), y luego nos vamos al terminal del sistema y mostramos ese archivo, veremos que la eñe no se lee bien en el terminal. La razón es que Windows utiliza la codificación llamada Windows 1252 y el terminal clásico (procedente del viejo sistema MS-DOS) usa normalmente (en España) la página de códigos CP 850.
@@ -159,7 +159,7 @@ La complicación de las tablas de código se intenta resolver gracias al sistema
 
 En Unicode a cada carácter se le asigna un número. Los 128 primeros siguen siendo los originales de ASCII para mantener la compatibilidad con los textos ya codificados. Los 128 siguientes se corresponden a los de la tabla ISO-8859_1, de modo que los textos codificados en esa tabla (la habitual de las lenguas de Europa Occidental) son compatibles con Unicode.
 
-Para ello un organismo, también llamado [Unicode](http://unicode.org/), participado por numerosas e influyentes empresas informáticas y coordinado por la propia ISO, se encarga de definir la tabla de códigos y además ha definido tres formas fundamentales de codificar los caracteres:
+Para ello un organismo, también llamado [Unicode](https://home.unicode.org/), participado por numerosas e influyentes empresas informáticas y coordinado por la propia ISO, se encarga de definir la tabla de códigos y además ha definido tres formas fundamentales de codificar los caracteres:
 
 - UTF-8. Es la más utilizada (y la más compleja de procesar para el ordenador). Para cada carácter se usa de uno a cuatro bytes, de forma que:
   - Los caracteres pertenecientes que pertenecen al código ASCII original ocupan un byte.
