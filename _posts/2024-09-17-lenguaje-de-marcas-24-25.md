@@ -8,8 +8,8 @@ tags: [desarrollo de aplicaciones multiplataforma, lenguajes de marcas y sistema
 ## Evaluación 1
 
 - UD01 - Introducción a los lenguajes de marcas
-  - [Representación de la información](/posts/representacion-informacion/)
-  - [Introducción a los lenguajes de marcas](/_posts/2024-09-17-introducción-a-los-lenguajes-de-marcas.md)
+  - [Representación de la información](/posts/representacion-de-la-informacion/)
+  - [Introducción a los lenguajes de marcas](/posts/introducción-a-los-lenguajes-de-marcas)
   - [XML](/posts/xml/)
 - UD02 - El lenguaje de marcado Markdown
   - [Tutorial de Markdown](https://tutorialmarkdown.com/)

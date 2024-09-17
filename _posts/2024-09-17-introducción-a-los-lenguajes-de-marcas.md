@@ -60,7 +60,7 @@ Ejemplo de código GML:
 
 El código anterior se podría convertir en:
 
-![imgDescription](ejemploGml.png)
+![imgDescription](/assets/img/introduccion-lenguajes-de-marcas/ejemploGml.png)
 _Resultado ejemplo GML_
 
 La idea es que los elementos arcados con símbolos “:" y “." delimiten marcas de formato. Así :h1. significa título principal y :p. significa párrafo.
@@ -163,7 +163,7 @@ Note that your figure will automatically be placed in the most appropriate place
 
 El código anterior se podría convertir en:
 
-![imgDescription](ejemploLatex.png)
+![imgDescription](/assets/img/introduccion-lenguajes-de-marcas/ejemploLatex.png)
 _Ejemplo de LaTeX en <https://es.overleaf.com/>_
 
 {:.question}
@@ -211,7 +211,7 @@ extremidades posteriores
 }
 ```
 
-![Resultado de ejemplo de RTF](rtf.png)
+![Resultado de ejemplo de RTF](/assets/img/introduccion-lenguajes-de-marcas/rtf.png)
 _Resultado de ejemplo de RTF_
 
 {:.question}
@@ -243,7 +243,7 @@ Ejemplo de PostScript:
 showpage           % Imprime el resultado
 ```
 
-![imgDescription](ejemploPs.png)
+![imgDescription](/assets/img/introduccion-lenguajes-de-marcas/ejemploPs.png)
 _Resultado PostScript generado con <https://online2pdf.com/convert-ps-to-pdf>_
 
 {:.subsection}
@@ -302,7 +302,7 @@ Ejemplo de HTML:
 </html>
 ```
 
-![imgDescription](ejemploHtml.png)
+![imgDescription](/assets/img/introduccion-lenguajes-de-marcas/ejemploHtml.png)
 _Resultado HTML_
 
 {:.question}
@@ -333,7 +333,7 @@ Los mamíferos (**Mammalia**) son una clase de vertebrados *amniotas homeotermos
 Las aves son que caminan, extremidades animales vertebrados, de sangre caliente, saltan o se mantienen solo sobre las posteriores
 ```
 
-![imgDescription](ejemploGml.png)
+![imgDescription](/assets/img/introduccion-lenguajes-de-marcas/ejemploGml.png)
 _Resultado ejemplo Markdown_
 
 {:.subsection}
