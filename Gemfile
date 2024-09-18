@@ -8,6 +8,8 @@ gem "html-proofer", "~> 5.0", group: :test
 
 gem 'jekyll-compose', group: [:jekyll_plugins]
 
+gem 'wdm', '>= 0.1.0'
+
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", ">= 1", "< 3"
