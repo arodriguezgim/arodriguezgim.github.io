@@ -230,7 +230,7 @@ Leer artículo HTML.
 
 Este artículo lo he copiado de la web del profesor Marcos Ruiz, profesor de Informática de Aragón.
 - [Web de Marcos Ruiz ](https://marcosruiz.github.io/posts/internet-caracteristicas-evolucion/)
-- [¿Por qué Google es el buscador más utilizado en todo el mundo?](http://eidos.com.mx/blog/por-que-google-es-el-buscador-mas-utilizado-en-todo-el-mundo/#:~:text=La%20respuesta%20del%20%C3%A9xito%20actual,m%C3%A1s%20r%C3%A1pida%20y%20precisa%20posible.)
+
 - [¿En qué consiste la web semántica?
 ](https://www.ionos.es/digitalguide/online-marketing/marketing-para-motores-de-busqueda/web-semantica/#:~:text=La%20web%20sem%C3%A1ntica%20a%C3%B1ade%20informaci%C3%B3n,pueden%20tener%20el%20mismo%20significado).)
 - [¿Qué es la Web 3.0?](https://www.ceupe.com/blog/que-es-la-web-3-0.html)
