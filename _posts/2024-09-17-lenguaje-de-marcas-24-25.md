@@ -14,7 +14,7 @@ tags: [desarrollo de aplicaciones multiplataforma, lenguajes de marcas y sistema
 - UD02 - El lenguaje de marcado Markdown
   - [Tutorial de Markdown](https://tutorialmarkdown.com/)
 - UD03 - Utilización de lenguajes de marcas en entornos web
-  - HTML
+  - [Introducción a HTML](/posts/html)
 - UD04 - Utilización de lenguajes de marcas en entornos web
   - CSS
 
