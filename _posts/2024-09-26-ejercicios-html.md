@@ -50,7 +50,8 @@ Berners-Lee trabajó en el CERN desde junio hasta diciembre de 1980. Durante ese
 
 Haz que tenga un formato según la siguiente imagen:
 
-
+![Biografía de Tim Berners-Lee en HTML](https://desarrolloweb.dlsi.ua.es/libros/html-css/img/ejercicios/conceptos-basicos-2.png)
+_Biografía de Tim Berners-Lee en HTML_
 
 {:.activity}
 ### Etiquetas de texto menos comunes
@@ -69,4 +70,9 @@ A partir del siguiente texto:
 ```text
 Biografía de Vinton Cerf Cuando solo tenía 25 años trabajó en el motor de cohete F-1 que sirvió para propulsar el cohete Saturno V que viajó a la luna, y a principios de los años 70 comenzó a desarrollar con Robert Khan un conjunto de protocolos de comunicaciones para la red militar, financiado por la agencia gubernamental DARPA. El objetivo era crear una "red de redes" que permitiera interconectar las distintas redes del Departamento de Defensa de los Estados Unidos, todas ellas de diferentes tipos y que funcionaban con diversos sistemas operativos, con independencia del tipo de conexión: radioenlaces, satélites y líneas telefónicas. Las investigaciones, lideradas por Vinton Cerf, primero desde la Universidad de California (1967-1972) y posteriormente desde la Universidad de Stanford (1972-1976), llevaron al diseño del conjunto de protocolos que hoy son conocidos como TCP/IP (Transmission Control Protocol/Internet Protocol), que fue presentado por Vinton Cerf y Robert Khan en 1972. Entre 1976 y 1982, trabajando en DARPA, fue pionero en el desarrollo de la transmisión por radio y satélite de paquetes, responsable del proyecto Internet y del programa de investigación de seguridad en la red. Siempre preocupado por los problemas de conexión de redes, Cerf estableció en 1979 la Internet Configuration Control Board (que posteriormente se denominó Internet Activities Board), y fue su primer presidente. Entre 1982 y 1986, Cerf diseñó el MCI MAIL, primer servicio comercial de correo electrónico que se conectaría a Internet. En 1992 fue uno de los fundadores de la Internet Society y su primer presidente. Actualmente Vinton Cerf es el vicepresidente mundial y Chief Internet Evangelist de Google. Es miembro del Consejo Asesor Internacional del Centro Cultural Internacional Oscar Niemeyer de Avilés, Asturias. 
 ```
+
+Haz que tenga un formato según la siguiente imagen:
+
+![Biografía de Vinton Cerf en HTML](https://francescricart.com/wp-content/uploads/2019/02/solucion-ejercicio-vinton-cerf-1024x602.jpg)
+_Biografía de Vinton Cerf en HTML_
 
