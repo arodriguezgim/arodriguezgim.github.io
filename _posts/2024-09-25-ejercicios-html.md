@@ -7,13 +7,6 @@ tags: [aplicaciones web, smr]
 ---
 
 
-## Actividades
-
-A continuación se listan las actividades que se deben realizar para esta práctica.
-
-> Si tienes alguna duda de cómo se usa una etiqueta puedes consultar el manual [HTML Tutorial](https://www.w3schools.com/html/default.asp) en inglés o el manual [HTML: Lenguaje de etiquetas de hipertexto](https://developer.mozilla.org/es/docs/Web/HTML) en español.
-{:.prompt-info}
-
 {:.activity}
 ### Corrige los errores de estructura
 
