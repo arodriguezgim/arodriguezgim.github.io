@@ -14,7 +14,7 @@ Para las 3 horas de este miércoles, vamos a realizar una App con una cartelera 
 
 1. La APP tiene un solo `Activity` con los siguientes elementos:  
 
-![App Cartelera](/assets/img/pmdm/practicas/P02-AppCartelera.png)
+![App Cartelera](/assets/img/pmdm/practicas/P02-Cartelera.png)
 
 ### B. Activity .kt  
 
