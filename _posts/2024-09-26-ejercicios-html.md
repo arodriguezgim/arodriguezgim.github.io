@@ -210,3 +210,9 @@ Anida correctamente la lista no ordenada que se muestra en la imagen.
 
 ![Lista HTML anidada con un subnivel y un subsubnivel](/assets/img/practica-html/ejemplo-listas-anidadas.jpg)
 _Lista HTML anidada con un subnivel y un subsubnivel_
+
+
+{:.activity}
+### Tablas
+
+Diseña una tabla en HTML con tu horario lectivo de este curso
